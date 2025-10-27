@@ -13,9 +13,9 @@ int main() {
     return 0;
 }
 ````
-Answer:
 <details>
 <summary>Show Answer </summary>
+Answer:
 Twice — once for each object (t1 and t2).
 </details>
 
