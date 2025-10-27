@@ -73,7 +73,7 @@ Speed = 100
 
 </details>
 4.Default vs Parameterized Constructor
-````c
+```c
 #include <iostream>
 using namespace std;
 
@@ -87,7 +87,7 @@ int main() {
     Box b1, b2(10);
     return 0;
 }
-```
+````
 <details>
 <summary>Show Answer </summary>
 Output:
