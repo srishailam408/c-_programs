@@ -15,7 +15,8 @@ int main() {
 ````
 Answer:
 Twice — once for each object (t1 and t2).
-````
+
+
 2.In what order will destructors be called?
 ```c
 #include <iostream>
@@ -42,7 +43,8 @@ Constructor
 Main running
 Destructor
 Destructor
-```
+
+
 3.What will be the output?
 ```c
 #include <iostream>
@@ -62,7 +64,8 @@ Answer:
 
 Speed = 50
 Speed = 100
-```
+
+
 4.Default vs Parameterized Constructor
 ````c
 #include <iostream>
@@ -83,7 +86,8 @@ Output:
 
 Default
 Parameterized 10
-```
+
+
 5.When will destructor run?
 ```c
 #include <iostream>
@@ -110,4 +114,4 @@ Main begin
 Start
 End
 Main end
-````
+
