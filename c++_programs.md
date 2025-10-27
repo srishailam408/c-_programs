@@ -14,9 +14,10 @@ int main() {
 }
 ````
 Answer:
-<details> <summary> Click to see the answer</summary>
+<details>
+<summary>Show Answer </summary>
 Twice — once for each object (t1 and t2).
-</details> ```
+</details>
 
 2.In what order will destructors be called?
 ```c
