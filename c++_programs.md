@@ -63,7 +63,7 @@ int main() {
     Car c1(50), c2(100);
     return 0;
 }
-````
+```
 <details>
 <summary>Show Answer </summary>
 Answer:
@@ -87,7 +87,7 @@ int main() {
     Box b1, b2(10);
     return 0;
 }
-````
+```
 <details>
 <summary>Show Answer </summary>
 Output:
@@ -115,7 +115,7 @@ int main() {
     cout << "Main end\n";
     return 0;
 }
-````
+```
 <details>
 <summary>Show Answer </summary>
 Answer:
