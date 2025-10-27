@@ -70,8 +70,8 @@ Answer:
 
 Speed = 50
 Speed = 100
-
 </details>
+
 4.Default vs Parameterized Constructor?
 ```c
 #include <iostream>
@@ -94,8 +94,8 @@ Output:
 
 Default
 Parameterized 10
-
 </details>
+
 5.When will destructor run?
 ```c
 #include <iostream>
