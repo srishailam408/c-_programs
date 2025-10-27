@@ -36,6 +36,8 @@ int main() {
     return 0;
 }
 ```
+<details>
+<summary>Show Answer </summary>
 Answer:
 Reverse order of creation →
 Output:
@@ -45,7 +47,7 @@ Constructor
 Main running
 Destructor
 Destructor
-
+</details>
 
 3.What will be the output?
 ```c
@@ -62,12 +64,14 @@ int main() {
     return 0;
 }
 ````
+<details>
+<summary>Show Answer </summary>
 Answer:
 
 Speed = 50
 Speed = 100
 
-
+</details>
 4.Default vs Parameterized Constructor
 ````c
 #include <iostream>
@@ -84,12 +88,14 @@ int main() {
     return 0;
 }
 ```
+<details>
+<summary>Show Answer </summary>
 Output:
 
 Default
 Parameterized 10
 
-
+</details>
 5.When will destructor run?
 ```c
 #include <iostream>
@@ -110,10 +116,12 @@ int main() {
     return 0;
 }
 ````
+<details>
+<summary>Show Answer </summary>
 Answer:
 
 Main begin
 Start
 End
 Main end
-
+</details>
