@@ -35,7 +35,8 @@ int main() {
             prevR[i][j] = prevC[i][j] = -1;
         }
 
-    dist[sr][sc] = 0;
+    //dist[sr][sc] = 0;
+    dist[sr][sc]=grid[sr][sc];
 
     for (int step = 0; step < rows*cols; ++step) {
         int min = INF, ur=-1, uc=-1;
